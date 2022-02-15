@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcial
-- 👀 I’m interested in anything which can be programmed
+- 👀 I’m interested in anything which can be developed.
 - 🌱 I’m currently studying Physics at Universidad Complutense de Madrid (4th course, material and condensed physics) and a bunch of programming languages by myself, such as Python, Arduino (C++), MATLAB, Simulink and Javascript.
 - 💞️ I’m looking to collaborate on anything, honestly, i really like learning and improve my skills to apply it
 - 📫 How to reach me: In Github and LinkedIn
